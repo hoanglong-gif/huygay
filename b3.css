@@ -1,0 +1,8 @@
+.ad{
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+    width:230px;
+    border-radius:15px;
+    padding:20px;
+}
